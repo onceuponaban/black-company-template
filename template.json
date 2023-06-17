@@ -1,0 +1,31 @@
+{
+
+  "contact": "onceuponaban",
+
+  "templates": [
+
+    {
+
+      "name": "Black Company",
+
+      "sources": [
+
+        "https://i.imgur.com/77oIoef.png",
+
+        ""
+
+      ],
+
+      "x": 254,
+
+      "y": 272
+
+    }
+
+  ],
+
+  "whitelist": [],
+
+  "blacklist": []
+
+}
