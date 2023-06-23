@@ -1,31 +1,20 @@
 {
-
-  "contact": "onceuponaban",
-
+  "contact": "Black Company: discord.gg/4sKvzQJpNZ",
   "templates": [
-
     {
-
       "name": "Black Company",
-
       "sources": [
-
-        "https://i.imgur.com/7rGbM4C.png",
-
-        ""
-
+        "https://i.imgur.com/VpRi8dm.png"
       ],
-
-      "x": 254,
-
-      "y": 272
-
+      "x": 422,
+      "y": 478
     }
-
   ],
-
-  "whitelist": [],
-
+  "whitelist": [
+    {
+      "name": "Black Company void outline",
+      "url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/void_template.json"
+    }
+  ],
   "blacklist": []
-
 }
