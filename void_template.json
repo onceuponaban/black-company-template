@@ -1,0 +1,15 @@
+{
+  "contact": "The Swarm: discord.gg/ZDvgxqhQBg",
+  "templates": [
+    {
+      "name": "Black Company void outline",
+      "sources": [
+        "https://i.imgur.com/I1rKdMV.png"
+      ],
+      "x": 372,
+      "y": 428
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
