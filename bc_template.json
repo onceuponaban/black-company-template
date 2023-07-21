@@ -6,16 +6,16 @@
       "sources": [
         "https://i.imgur.com/WtS2DfE.png"
       ],
-      "x": -78,
-      "y": -10,
+      "x": 422,
+      "y": 490,
     },
     {
       "name": "Apollo logo",
       "sources": [
         "https://cdn.discordapp.com/attachments/1116143214643126342/1132020030268260413/apolloIRflag.png"
       ],
-      "x": 800,
-      "y": 237,
+      "x": 1300,
+      "y": 737,
     }
   ],
   "whitelist": [
