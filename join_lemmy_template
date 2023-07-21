@@ -1,0 +1,15 @@
+{
+  "contact": "Lemmy Place Coordination: https://matrix.to/#/#lemmyplace:data.haus",
+  "templates": [
+    {
+      "name": "Join Lemmy",
+      "sources": [
+        "https://i.imgur.com/3xVBA86.png"
+      ],
+      "x": 562,
+      "y": 728
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
