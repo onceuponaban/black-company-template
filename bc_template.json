@@ -20,5 +20,10 @@
       "url": "https://pastebin.com/raw/icTkrAnz"
     }
   ],
-  "blacklist": []
+  "blacklist": [
+    {
+      "name": "P3ACE",
+      "url": "https://charity.pxls.space/p3ace"
+    }
+  ]
 }
