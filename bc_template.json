@@ -12,10 +12,6 @@
   ],
   "whitelist": [
     {
-      "name": "Join Lemmy",
-      "url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/join_lemmy_template.json"
-    },
-    {
       "name": "Foxhole",
       "url": "https://pastebin.com/raw/icTkrAnz"
     }
