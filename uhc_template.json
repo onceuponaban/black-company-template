@@ -1,0 +1,15 @@
+{
+  "contact": "Ultimate Chicken Horse",
+  "templates": [
+    {
+      "name": "UHC",
+      "sources": [
+        "https://i.imgur.com/sZXfu9a.png"
+      ],
+      "x": 1039,
+      "y": 973
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
