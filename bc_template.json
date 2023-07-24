@@ -22,6 +22,10 @@
     {
       "name": "Placestart",
       "url": "https://gist.githubusercontent.com/Jabster28/553c0b989c0a78dde1aa9a082b74d2f2/raw/placestart%2520template.json"
+    },
+    {
+      "name": "Ultimate Chicken Horse",
+      "url": "https://raw.githubusercontent.com/onceuponaban/black-company-template/main/uhc_template.json"
     }
   ],
   "blacklist": []
